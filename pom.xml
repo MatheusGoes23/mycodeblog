@@ -84,10 +84,6 @@
 						<configuration>
 							<excludes>
 								<exclude>**/cloud/config/*.java</exclude>
-								<exclude>
-									<groupId>org.projectlombok</groupId>
-									<artifactId>lombok</artifactId>
-								</exclude>
 							</excludes>
 						</configuration>
 					</plugin>
